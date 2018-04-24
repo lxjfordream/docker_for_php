@@ -1,0 +1,2759 @@
+2018-03-08 00:23:12 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+2018-03-08 00:23:11 [10.33.81.23][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+    '__returnUrl' => '/advanced/backend/web/index.php'
+]
+
+$_SERVER = [
+    'USER' => 'www-data'
+    'HOME' => '/var/www'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => '10.33.81.23'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => '_'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '10.33.81.23'
+    'REMOTE_PORT' => '55722'
+    'REMOTE_ADDR' => '10.33.81.23'
+    'SERVER_SOFTWARE' => 'nginx/1.10.3'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REQUEST_SCHEME' => 'http'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => '/home/lxjtest/myweb'
+    'DOCUMENT_URI' => '/advanced/backend/web/index.php'
+    'REQUEST_URI' => '/advanced/backend/web/index.php'
+    'SCRIPT_NAME' => '/advanced/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => '/home/lxjtest/myweb/advanced/backend/web/index.php'
+    'PATH_INFO' => ''
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => ''
+    'REQUEST_TIME_FLOAT' => 1520468591.6245
+    'REQUEST_TIME' => 1520468591
+]
+2018-03-08 00:23:12 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+    in /home/lxjtest/myweb/advanced/backend/views/layouts/main.php:77
+    in /home/lxjtest/myweb/advanced/backend/controllers/SiteController.php:84
+2018-03-08 00:23:12 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+2018-03-08 00:23:12 [10.33.81.23][-][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => 'msdkn09t7p911h2kn4vq98u530'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__returnUrl' => '/advanced/backend/web/index.php'
+]
+
+$_SERVER = [
+    'USER' => 'www-data'
+    'HOME' => '/var/www'
+    'HTTP_COOKIE' => 'advanced-backend=msdkn09t7p911h2kn4vq98u530'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => '10.33.81.23'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => '_'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '10.33.81.23'
+    'REMOTE_PORT' => '55722'
+    'REMOTE_ADDR' => '10.33.81.23'
+    'SERVER_SOFTWARE' => 'nginx/1.10.3'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REQUEST_SCHEME' => 'http'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => '/home/lxjtest/myweb'
+    'DOCUMENT_URI' => '/advanced/backend/web/index.php'
+    'REQUEST_URI' => '/advanced/backend/web/index.php?r=site%2Flogin'
+    'SCRIPT_NAME' => '/advanced/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'SCRIPT_FILENAME' => '/home/lxjtest/myweb/advanced/backend/web/index.php'
+    'PATH_INFO' => ''
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => ''
+    'REQUEST_TIME_FLOAT' => 1520468592.5781
+    'REQUEST_TIME' => 1520468592
+]
+2018-03-08 00:55:11 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+2018-03-08 00:55:11 [10.33.81.23][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => 'msdkn09t7p911h2kn4vq98u530'
+    '_csrf-backend' => '878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__returnUrl' => '/advanced/backend/web/index.php?'
+]
+
+$_SERVER = [
+    'USER' => 'www-data'
+    'HOME' => '/var/www'
+    'HTTP_COOKIE' => 'advanced-backend=msdkn09t7p911h2kn4vq98u530; _csrf-backend=878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => '10.33.81.23'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => '_'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '10.33.81.23'
+    'REMOTE_PORT' => '56672'
+    'REMOTE_ADDR' => '10.33.81.23'
+    'SERVER_SOFTWARE' => 'nginx/1.10.3'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REQUEST_SCHEME' => 'http'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => '/home/lxjtest/myweb'
+    'DOCUMENT_URI' => '/advanced/backend/web/index.php'
+    'REQUEST_URI' => '/advanced/backend/web/index.php?'
+    'SCRIPT_NAME' => '/advanced/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => '/home/lxjtest/myweb/advanced/backend/web/index.php'
+    'PATH_INFO' => ''
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => ''
+    'REQUEST_TIME_FLOAT' => 1520470509.886
+    'REQUEST_TIME' => 1520470509
+]
+2018-03-08 00:55:11 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+    in /home/lxjtest/myweb/advanced/backend/views/layouts/main.php:77
+    in /home/lxjtest/myweb/advanced/backend/controllers/SiteController.php:85
+2018-03-08 00:55:11 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+2018-03-08 00:55:11 [10.33.81.23][-][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => 'msdkn09t7p911h2kn4vq98u530'
+    '_csrf-backend' => '878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__returnUrl' => '/advanced/backend/web/index.php?'
+]
+
+$_SERVER = [
+    'USER' => 'www-data'
+    'HOME' => '/var/www'
+    'HTTP_COOKIE' => 'advanced-backend=msdkn09t7p911h2kn4vq98u530; _csrf-backend=878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => '10.33.81.23'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => '_'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '10.33.81.23'
+    'REMOTE_PORT' => '56672'
+    'REMOTE_ADDR' => '10.33.81.23'
+    'SERVER_SOFTWARE' => 'nginx/1.10.3'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REQUEST_SCHEME' => 'http'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => '/home/lxjtest/myweb'
+    'DOCUMENT_URI' => '/advanced/backend/web/index.php'
+    'REQUEST_URI' => '/advanced/backend/web/index.php?r=site%2Flogin'
+    'SCRIPT_NAME' => '/advanced/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'SCRIPT_FILENAME' => '/home/lxjtest/myweb/advanced/backend/web/index.php'
+    'PATH_INFO' => ''
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => ''
+    'REQUEST_TIME_FLOAT' => 1520470511.3869
+    'REQUEST_TIME' => 1520470511
+]
+2018-03-08 02:45:19 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+    in /home/lxjtest/myweb/advanced/backend/views/layouts/main.php:77
+    in /home/lxjtest/myweb/advanced/backend/controllers/SiteController.php:84
+2018-03-08 02:45:19 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+2018-03-08 02:45:19 [10.33.81.23][-][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => 'msdkn09t7p911h2kn4vq98u530'
+    '_csrf-backend' => '878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'www-data'
+    'HOME' => '/var/www'
+    'HTTP_COOKIE' => 'advanced-backend=msdkn09t7p911h2kn4vq98u530; _csrf-backend=878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => '10.33.81.23'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => '_'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '10.33.81.23'
+    'REMOTE_PORT' => '57466'
+    'REMOTE_ADDR' => '10.33.81.23'
+    'SERVER_SOFTWARE' => 'nginx/1.10.3'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REQUEST_SCHEME' => 'http'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => '/home/lxjtest/myweb'
+    'DOCUMENT_URI' => '/advanced/backend/web/index.php'
+    'REQUEST_URI' => '/advanced/backend/web/index.php?r=site%2Flogin'
+    'SCRIPT_NAME' => '/advanced/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'SCRIPT_FILENAME' => '/home/lxjtest/myweb/advanced/backend/web/index.php'
+    'PATH_INFO' => ''
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => ''
+    'REQUEST_TIME_FLOAT' => 1520477119.6946
+    'REQUEST_TIME' => 1520477119
+]
+2018-03-08 02:55:12 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+    in /home/lxjtest/myweb/advanced/backend/views/layouts/main.php:77
+    in /home/lxjtest/myweb/advanced/backend/controllers/SiteController.php:84
+2018-03-08 02:55:12 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+2018-03-08 02:55:11 [10.33.81.23][-][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => 'msdkn09t7p911h2kn4vq98u530'
+    '_csrf-backend' => '878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'www-data'
+    'HOME' => '/var/www'
+    'HTTP_COOKIE' => 'advanced-backend=msdkn09t7p911h2kn4vq98u530; _csrf-backend=878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => '10.33.81.23'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => '_'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '10.33.81.23'
+    'REMOTE_PORT' => '57534'
+    'REMOTE_ADDR' => '10.33.81.23'
+    'SERVER_SOFTWARE' => 'nginx/1.10.3'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REQUEST_SCHEME' => 'http'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => '/home/lxjtest/myweb'
+    'DOCUMENT_URI' => '/advanced/backend/web/index.php'
+    'REQUEST_URI' => '/advanced/backend/web/index.php?r=site%2Flogin'
+    'SCRIPT_NAME' => '/advanced/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'SCRIPT_FILENAME' => '/home/lxjtest/myweb/advanced/backend/web/index.php'
+    'PATH_INFO' => ''
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => ''
+    'REQUEST_TIME_FLOAT' => 1520477711.9139
+    'REQUEST_TIME' => 1520477711
+]
+2018-03-08 02:55:17 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+    in /home/lxjtest/myweb/advanced/backend/views/layouts/main.php:77
+    in /home/lxjtest/myweb/advanced/backend/controllers/SiteController.php:84
+2018-03-08 02:55:17 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+2018-03-08 02:55:17 [10.33.81.23][-][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => 'msdkn09t7p911h2kn4vq98u530'
+    '_csrf-backend' => '878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'www-data'
+    'HOME' => '/var/www'
+    'HTTP_COOKIE' => 'advanced-backend=msdkn09t7p911h2kn4vq98u530; _csrf-backend=878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => '10.33.81.23'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => '_'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '10.33.81.23'
+    'REMOTE_PORT' => '57536'
+    'REMOTE_ADDR' => '10.33.81.23'
+    'SERVER_SOFTWARE' => 'nginx/1.10.3'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REQUEST_SCHEME' => 'http'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => '/home/lxjtest/myweb'
+    'DOCUMENT_URI' => '/advanced/backend/web/index.php'
+    'REQUEST_URI' => '/advanced/backend/web/index.php?r=site%2Flogin'
+    'SCRIPT_NAME' => '/advanced/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'SCRIPT_FILENAME' => '/home/lxjtest/myweb/advanced/backend/web/index.php'
+    'PATH_INFO' => ''
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => ''
+    'REQUEST_TIME_FLOAT' => 1520477717.1202
+    'REQUEST_TIME' => 1520477717
+]
+2018-03-08 03:10:50 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+    in /home/lxjtest/myweb/advanced/backend/views/layouts/main.php:77
+    in /home/lxjtest/myweb/advanced/backend/controllers/SiteController.php:84
+2018-03-08 03:10:50 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+2018-03-08 03:10:50 [10.33.81.23][-][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => 'msdkn09t7p911h2kn4vq98u530'
+    '_csrf-backend' => '878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'www-data'
+    'HOME' => '/var/www'
+    'HTTP_COOKIE' => 'advanced-backend=msdkn09t7p911h2kn4vq98u530; _csrf-backend=878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => '10.33.81.23'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => '_'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '10.33.81.23'
+    'REMOTE_PORT' => '57592'
+    'REMOTE_ADDR' => '10.33.81.23'
+    'SERVER_SOFTWARE' => 'nginx/1.10.3'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REQUEST_SCHEME' => 'http'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => '/home/lxjtest/myweb'
+    'DOCUMENT_URI' => '/advanced/backend/web/index.php'
+    'REQUEST_URI' => '/advanced/backend/web/index.php?r=site%2Flogin'
+    'SCRIPT_NAME' => '/advanced/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'SCRIPT_FILENAME' => '/home/lxjtest/myweb/advanced/backend/web/index.php'
+    'PATH_INFO' => ''
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => ''
+    'REQUEST_TIME_FLOAT' => 1520478650.2364
+    'REQUEST_TIME' => 1520478650
+]
+2018-03-08 03:10:55 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+    in /home/lxjtest/myweb/advanced/backend/views/layouts/main.php:77
+    in /home/lxjtest/myweb/advanced/backend/controllers/SiteController.php:84
+2018-03-08 03:10:55 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+2018-03-08 03:10:55 [10.33.81.23][-][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => 'msdkn09t7p911h2kn4vq98u530'
+    '_csrf-backend' => '878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'www-data'
+    'HOME' => '/var/www'
+    'HTTP_COOKIE' => 'advanced-backend=msdkn09t7p911h2kn4vq98u530; _csrf-backend=878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => '10.33.81.23'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => '_'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '10.33.81.23'
+    'REMOTE_PORT' => '57594'
+    'REMOTE_ADDR' => '10.33.81.23'
+    'SERVER_SOFTWARE' => 'nginx/1.10.3'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REQUEST_SCHEME' => 'http'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => '/home/lxjtest/myweb'
+    'DOCUMENT_URI' => '/advanced/backend/web/index.php'
+    'REQUEST_URI' => '/advanced/backend/web/index.php?r=site%2Flogin'
+    'SCRIPT_NAME' => '/advanced/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'SCRIPT_FILENAME' => '/home/lxjtest/myweb/advanced/backend/web/index.php'
+    'PATH_INFO' => ''
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => ''
+    'REQUEST_TIME_FLOAT' => 1520478655.5227
+    'REQUEST_TIME' => 1520478655
+]
+2018-03-09 00:19:15 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+    in /home/lxjtest/myweb/advanced/backend/views/layouts/main.php:77
+    in /home/lxjtest/myweb/advanced/backend/controllers/SiteController.php:84
+2018-03-09 00:19:15 [10.33.81.23][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 10.33.81.23
+2018-03-09 00:19:14 [10.33.81.23][-][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => 'msdkn09t7p911h2kn4vq98u530'
+    '_csrf-backend' => '878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'www-data'
+    'HOME' => '/var/www'
+    'HTTP_COOKIE' => 'advanced-backend=msdkn09t7p911h2kn4vq98u530; _csrf-backend=878fdaf8138d933471109e5f93875c7cdb904ac92dbcbdc5fc1df2319b4def52a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22j4tnjB1JfdSh9Z4b7a2MBPkf2gaqFB8b%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => '10.33.81.23'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => '_'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '10.33.81.23'
+    'REMOTE_PORT' => '35920'
+    'REMOTE_ADDR' => '10.33.81.23'
+    'SERVER_SOFTWARE' => 'nginx/1.10.3'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REQUEST_SCHEME' => 'http'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => '/home/lxjtest/myweb'
+    'DOCUMENT_URI' => '/advanced/backend/web/index.php'
+    'REQUEST_URI' => '/advanced/backend/web/index.php?r=site%2Flogin'
+    'SCRIPT_NAME' => '/advanced/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'SCRIPT_FILENAME' => '/home/lxjtest/myweb/advanced/backend/web/index.php'
+    'PATH_INFO' => ''
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => ''
+    'REQUEST_TIME_FLOAT' => 1520554753.7278
+    'REQUEST_TIME' => 1520554753
+]
+2018-03-26 21:52:00 [127.0.0.1][2][2321h8ue7m79c31j6hmgfnja85][error][ParseError] ParseError: syntax error, unexpected ':' in D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php:56
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload('backend\\control...')
+#1 [internal function]: spl_autoload_call('backend\\control...')
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(637): class_exists('backend\\control...')
+#3 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(596): yii\base\Module->createControllerByID('post')
+#4 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(522): yii\base\Module->createController('view')
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#8 {main}
+2018-03-26 21:52:00 [127.0.0.1][2][2321h8ue7m79c31j6hmgfnja85][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => '2321h8ue7m79c31j6hmgfnja85'
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    '_csrf-backend' => 'b34c557827fa3a9c121c6935b384abf4ac4b75853ee2ea47a8bf02ed04694f19a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"v2b5wLyspwD_y1MuzcfSsJz0qN04Kwiu\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__returnUrl' => '/mytestweb/backend/web/index.php'
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => 'advanced-backend=2321h8ue7m79c31j6hmgfnja85; _identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; _csrf-backend=b34c557827fa3a9c121c6935b384abf4ac4b75853ee2ea47a8bf02ed04694f19a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22v2b5wLyspwD_y1MuzcfSsJz0qN04Kwiu%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '3728'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522101120.1319
+    'REQUEST_TIME' => 1522101120
+]
+2018-03-26 21:54:37 [127.0.0.1][2][2321h8ue7m79c31j6hmgfnja85][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined variable: _get in D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php:56
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(56): yii\base\ErrorHandler->handleError(8, 'Undefined varia...', 'D:\\phpStudy\\WWW...', 56, Array)
+#1 [internal function]: backend\controllers\PostController->actionView('32')
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#3 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#4 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#8 {main}
+2018-03-26 21:54:37 [127.0.0.1][2][2321h8ue7m79c31j6hmgfnja85][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => '2321h8ue7m79c31j6hmgfnja85'
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    '_csrf-backend' => 'b34c557827fa3a9c121c6935b384abf4ac4b75853ee2ea47a8bf02ed04694f19a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"v2b5wLyspwD_y1MuzcfSsJz0qN04Kwiu\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__returnUrl' => '/mytestweb/backend/web/index.php'
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => 'advanced-backend=2321h8ue7m79c31j6hmgfnja85; _identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; _csrf-backend=b34c557827fa3a9c121c6935b384abf4ac4b75853ee2ea47a8bf02ed04694f19a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22v2b5wLyspwD_y1MuzcfSsJz0qN04Kwiu%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '3805'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522101277.1969
+    'REQUEST_TIME' => 1522101277
+]
+2018-03-26 21:54:49 [127.0.0.1][2][2321h8ue7m79c31j6hmgfnja85][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined variable: __get in D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php:56
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(56): yii\base\ErrorHandler->handleError(8, 'Undefined varia...', 'D:\\phpStudy\\WWW...', 56, Array)
+#1 [internal function]: backend\controllers\PostController->actionView('32')
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#3 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#4 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#8 {main}
+2018-03-26 21:54:49 [127.0.0.1][2][2321h8ue7m79c31j6hmgfnja85][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => '2321h8ue7m79c31j6hmgfnja85'
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    '_csrf-backend' => 'b34c557827fa3a9c121c6935b384abf4ac4b75853ee2ea47a8bf02ed04694f19a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"v2b5wLyspwD_y1MuzcfSsJz0qN04Kwiu\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__returnUrl' => '/mytestweb/backend/web/index.php'
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => 'advanced-backend=2321h8ue7m79c31j6hmgfnja85; _identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; _csrf-backend=b34c557827fa3a9c121c6935b384abf4ac4b75853ee2ea47a8bf02ed04694f19a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22v2b5wLyspwD_y1MuzcfSsJz0qN04Kwiu%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '3805'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522101289.5286
+    'REQUEST_TIME' => 1522101289
+]
+2018-03-26 21:58:30 [127.0.0.1][2][2321h8ue7m79c31j6hmgfnja85][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Controller.php:149
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(51): yii\web\Controller->bindActionParams(Object(yii\base\InlineAction), Array)
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#3 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#4 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#5 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2018-03-26 21:58:30 [127.0.0.1][2][2321h8ue7m79c31j6hmgfnja85][info][application] $_GET = [
+    'r' => 'post/view'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => '2321h8ue7m79c31j6hmgfnja85'
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    '_csrf-backend' => 'b34c557827fa3a9c121c6935b384abf4ac4b75853ee2ea47a8bf02ed04694f19a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"v2b5wLyspwD_y1MuzcfSsJz0qN04Kwiu\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__returnUrl' => '/mytestweb/backend/web/index.php'
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => 'advanced-backend=2321h8ue7m79c31j6hmgfnja85; _identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; _csrf-backend=b34c557827fa3a9c121c6935b384abf4ac4b75853ee2ea47a8bf02ed04694f19a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22v2b5wLyspwD_y1MuzcfSsJz0qN04Kwiu%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '3970'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522101510.5773
+    'REQUEST_TIME' => 1522101510
+]
+2018-03-27 22:32:11 [127.0.0.1][2][67k6dppck6a0jngq2b1fjdhl17][error][ParseError] ParseError: syntax error, unexpected '，' (T_STRING), expecting ']' in D:\phpStudy\WWW\mytestweb\backend\views\post\view.php:36
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('view', Array, Object(backend\controllers\PostController))
+#3 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(66): yii\base\Controller->render('view', Array)
+#4 [internal function]: backend\controllers\PostController->actionView('32')
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#8 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#9 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-03-27 22:32:11 [127.0.0.1][2][67k6dppck6a0jngq2b1fjdhl17][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-backend' => '67k6dppck6a0jngq2b1fjdhl17'
+    '_csrf-backend' => '0abecc2616096f947025bd70adad110b036911b6d53c93a9a5f54f0597d7dcc9a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"Lu2qocEYMC0bb8gRWg83GZBivnen0qF5\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-backend=67k6dppck6a0jngq2b1fjdhl17; _csrf-backend=0abecc2616096f947025bd70adad110b036911b6d53c93a9a5f54f0597d7dcc9a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22Lu2qocEYMC0bb8gRWg83GZBivnen0qF5%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '2406'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522189931.1878
+    'REQUEST_TIME' => 1522189931
+]
+2018-03-27 22:32:37 [127.0.0.1][2][67k6dppck6a0jngq2b1fjdhl17][error][yii\base\InvalidArgumentException] yii\base\InvalidArgumentException: Relation names are case sensitive. common\models\Post has a relation named "author" instead of "Author". in D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\db\ActiveRelationTrait.php:180
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\db\BaseActiveRecord.php(298): yii\db\ActiveQuery->findFor('Author', Object(common\models\Post))
+#1 D:\phpStudy\WWW\mytestweb\backend\views\post\view.php(43): yii\db\BaseActiveRecord->__get('Author')
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(336): require('D:\\phpStudy\\WWW...')
+#3 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#4 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('view', Array, Object(backend\controllers\PostController))
+#6 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(66): yii\base\Controller->render('view', Array)
+#7 [internal function]: backend\controllers\PostController->actionView('32')
+#8 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#9 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#10 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#11 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#12 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#13 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#14 {main}
+2018-03-27 22:32:37 [127.0.0.1][2][67k6dppck6a0jngq2b1fjdhl17][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-backend' => '67k6dppck6a0jngq2b1fjdhl17'
+    '_csrf-backend' => '0abecc2616096f947025bd70adad110b036911b6d53c93a9a5f54f0597d7dcc9a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"Lu2qocEYMC0bb8gRWg83GZBivnen0qF5\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-backend=67k6dppck6a0jngq2b1fjdhl17; _csrf-backend=0abecc2616096f947025bd70adad110b036911b6d53c93a9a5f54f0597d7dcc9a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22Lu2qocEYMC0bb8gRWg83GZBivnen0qF5%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '2406'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522189957.7673
+    'REQUEST_TIME' => 1522189957
+]
+2018-03-27 22:33:08 [127.0.0.1][2][67k6dppck6a0jngq2b1fjdhl17][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Getting unknown property: common\models\Adminuser::name in D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Component.php:154
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\db\BaseActiveRecord.php(295): yii\base\Component->__get('name')
+#1 D:\phpStudy\WWW\mytestweb\backend\views\post\view.php(43): yii\db\BaseActiveRecord->__get('name')
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(336): require('D:\\phpStudy\\WWW...')
+#3 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#4 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('view', Array, Object(backend\controllers\PostController))
+#6 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(66): yii\base\Controller->render('view', Array)
+#7 [internal function]: backend\controllers\PostController->actionView('32')
+#8 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#9 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#10 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#11 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#12 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#13 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#14 {main}
+2018-03-27 22:33:08 [127.0.0.1][2][67k6dppck6a0jngq2b1fjdhl17][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-backend' => '67k6dppck6a0jngq2b1fjdhl17'
+    '_csrf-backend' => '0abecc2616096f947025bd70adad110b036911b6d53c93a9a5f54f0597d7dcc9a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"Lu2qocEYMC0bb8gRWg83GZBivnen0qF5\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-backend=67k6dppck6a0jngq2b1fjdhl17; _csrf-backend=0abecc2616096f947025bd70adad110b036911b6d53c93a9a5f54f0597d7dcc9a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22Lu2qocEYMC0bb8gRWg83GZBivnen0qF5%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '2406'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522189988.8301
+    'REQUEST_TIME' => 1522189988
+]
+2018-03-28 12:50:15 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][error][ParseError] ParseError: syntax error, unexpected '=', expecting ']' in D:\phpStudy\WWW\mytestweb\backend\views\post\view.php:53
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('view', Array, Object(backend\controllers\PostController))
+#3 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(66): yii\base\Controller->render('view', Array)
+#4 [internal function]: backend\controllers\PostController->actionView('32')
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#8 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#9 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-03-28 12:50:15 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-frontend' => 'bne0pknva9fd0eopp6i8nkq981'
+    '_csrf-frontend' => '06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH\";}'
+    'advanced-backend' => '2fdc6vs0g51mi4v9dl9oaqhc75'
+    '_csrf-backend' => '553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"4cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-frontend=bne0pknva9fd0eopp6i8nkq981; _csrf-frontend=06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH%22%3B%7D; advanced-backend=2fdc6vs0g51mi4v9dl9oaqhc75; _csrf-backend=553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%224cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51925'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522241415.476
+    'REQUEST_TIME' => 1522241415
+]
+2018-03-28 12:50:41 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][error][ParseError] ParseError: syntax error, unexpected '=', expecting ']' in D:\phpStudy\WWW\mytestweb\backend\views\post\view.php:53
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('view', Array, Object(backend\controllers\PostController))
+#3 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(66): yii\base\Controller->render('view', Array)
+#4 [internal function]: backend\controllers\PostController->actionView('32')
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#8 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#9 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-03-28 12:50:41 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-frontend' => 'bne0pknva9fd0eopp6i8nkq981'
+    '_csrf-frontend' => '06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH\";}'
+    'advanced-backend' => '2fdc6vs0g51mi4v9dl9oaqhc75'
+    '_csrf-backend' => '553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"4cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-frontend=bne0pknva9fd0eopp6i8nkq981; _csrf-frontend=06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH%22%3B%7D; advanced-backend=2fdc6vs0g51mi4v9dl9oaqhc75; _csrf-backend=553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%224cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51925'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522241441.8315
+    'REQUEST_TIME' => 1522241441
+]
+2018-03-28 12:50:44 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][error][ParseError] ParseError: syntax error, unexpected '=', expecting ']' in D:\phpStudy\WWW\mytestweb\backend\views\post\view.php:53
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('view', Array, Object(backend\controllers\PostController))
+#3 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(66): yii\base\Controller->render('view', Array)
+#4 [internal function]: backend\controllers\PostController->actionView('32')
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#8 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#9 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-03-28 12:50:43 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-frontend' => 'bne0pknva9fd0eopp6i8nkq981'
+    '_csrf-frontend' => '06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH\";}'
+    'advanced-backend' => '2fdc6vs0g51mi4v9dl9oaqhc75'
+    '_csrf-backend' => '553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"4cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-frontend=bne0pknva9fd0eopp6i8nkq981; _csrf-frontend=06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH%22%3B%7D; advanced-backend=2fdc6vs0g51mi4v9dl9oaqhc75; _csrf-backend=553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%224cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51925'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522241443.9826
+    'REQUEST_TIME' => 1522241443
+]
+2018-03-28 12:50:44 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][error][ParseError] ParseError: syntax error, unexpected '=', expecting ']' in D:\phpStudy\WWW\mytestweb\backend\views\post\view.php:53
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('view', Array, Object(backend\controllers\PostController))
+#3 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(66): yii\base\Controller->render('view', Array)
+#4 [internal function]: backend\controllers\PostController->actionView('32')
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#8 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#9 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-03-28 12:50:44 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-frontend' => 'bne0pknva9fd0eopp6i8nkq981'
+    '_csrf-frontend' => '06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH\";}'
+    'advanced-backend' => '2fdc6vs0g51mi4v9dl9oaqhc75'
+    '_csrf-backend' => '553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"4cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-frontend=bne0pknva9fd0eopp6i8nkq981; _csrf-frontend=06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH%22%3B%7D; advanced-backend=2fdc6vs0g51mi4v9dl9oaqhc75; _csrf-backend=553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%224cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51925'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522241444.8307
+    'REQUEST_TIME' => 1522241444
+]
+2018-03-28 12:50:45 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][error][ParseError] ParseError: syntax error, unexpected '=', expecting ']' in D:\phpStudy\WWW\mytestweb\backend\views\post\view.php:53
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('view', Array, Object(backend\controllers\PostController))
+#3 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(66): yii\base\Controller->render('view', Array)
+#4 [internal function]: backend\controllers\PostController->actionView('32')
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#8 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#9 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-03-28 12:50:45 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-frontend' => 'bne0pknva9fd0eopp6i8nkq981'
+    '_csrf-frontend' => '06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH\";}'
+    'advanced-backend' => '2fdc6vs0g51mi4v9dl9oaqhc75'
+    '_csrf-backend' => '553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"4cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-frontend=bne0pknva9fd0eopp6i8nkq981; _csrf-frontend=06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH%22%3B%7D; advanced-backend=2fdc6vs0g51mi4v9dl9oaqhc75; _csrf-backend=553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%224cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51925'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522241445.3447
+    'REQUEST_TIME' => 1522241445
+]
+2018-03-28 12:50:45 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][error][ParseError] ParseError: syntax error, unexpected '=', expecting ']' in D:\phpStudy\WWW\mytestweb\backend\views\post\view.php:53
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('view', Array, Object(backend\controllers\PostController))
+#3 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(66): yii\base\Controller->render('view', Array)
+#4 [internal function]: backend\controllers\PostController->actionView('32')
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#8 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#9 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-03-28 12:50:45 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-frontend' => 'bne0pknva9fd0eopp6i8nkq981'
+    '_csrf-frontend' => '06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH\";}'
+    'advanced-backend' => '2fdc6vs0g51mi4v9dl9oaqhc75'
+    '_csrf-backend' => '553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"4cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-frontend=bne0pknva9fd0eopp6i8nkq981; _csrf-frontend=06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH%22%3B%7D; advanced-backend=2fdc6vs0g51mi4v9dl9oaqhc75; _csrf-backend=553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%224cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51925'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522241445.7337
+    'REQUEST_TIME' => 1522241445
+]
+2018-03-28 12:52:56 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][error][ParseError] ParseError: syntax error, unexpected '=', expecting ']' in D:\phpStudy\WWW\mytestweb\backend\views\post\view.php:53
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('view', Array, Object(backend\controllers\PostController))
+#3 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(66): yii\base\Controller->render('view', Array)
+#4 [internal function]: backend\controllers\PostController->actionView('32')
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#8 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#9 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-03-28 12:52:56 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-frontend' => 'bne0pknva9fd0eopp6i8nkq981'
+    '_csrf-frontend' => '06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH\";}'
+    'advanced-backend' => '2fdc6vs0g51mi4v9dl9oaqhc75'
+    '_csrf-backend' => '553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"4cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-frontend=bne0pknva9fd0eopp6i8nkq981; _csrf-frontend=06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH%22%3B%7D; advanced-backend=2fdc6vs0g51mi4v9dl9oaqhc75; _csrf-backend=553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%224cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '52025'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522241576.6552
+    'REQUEST_TIME' => 1522241576
+]
+2018-03-28 12:52:57 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][error][ParseError] ParseError: syntax error, unexpected '=', expecting ']' in D:\phpStudy\WWW\mytestweb\backend\views\post\view.php:53
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('view', Array, Object(backend\controllers\PostController))
+#3 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(66): yii\base\Controller->render('view', Array)
+#4 [internal function]: backend\controllers\PostController->actionView('32')
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#8 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#9 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-03-28 12:52:57 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-frontend' => 'bne0pknva9fd0eopp6i8nkq981'
+    '_csrf-frontend' => '06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH\";}'
+    'advanced-backend' => '2fdc6vs0g51mi4v9dl9oaqhc75'
+    '_csrf-backend' => '553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"4cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-frontend=bne0pknva9fd0eopp6i8nkq981; _csrf-frontend=06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH%22%3B%7D; advanced-backend=2fdc6vs0g51mi4v9dl9oaqhc75; _csrf-backend=553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%224cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '52025'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522241577.3553
+    'REQUEST_TIME' => 1522241577
+]
+2018-03-28 12:55:18 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][error][ParseError] ParseError: syntax error, unexpected '=', expecting ']' in D:\phpStudy\WWW\mytestweb\backend\views\post\view.php:55
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('view', Array, Object(backend\controllers\PostController))
+#3 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(66): yii\base\Controller->render('view', Array)
+#4 [internal function]: backend\controllers\PostController->actionView('32')
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#7 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('view', Array)
+#8 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/view', Array)
+#9 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2018-03-28 12:55:17 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][info][application] $_GET = [
+    'r' => 'post/view'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-frontend' => 'bne0pknva9fd0eopp6i8nkq981'
+    '_csrf-frontend' => '06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH\";}'
+    'advanced-backend' => '2fdc6vs0g51mi4v9dl9oaqhc75'
+    '_csrf-backend' => '553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"4cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-frontend=bne0pknva9fd0eopp6i8nkq981; _csrf-frontend=06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH%22%3B%7D; advanced-backend=2fdc6vs0g51mi4v9dl9oaqhc75; _csrf-backend=553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%224cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '52116'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fview&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fview&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522241717.9493
+    'REQUEST_TIME' => 1522241717
+]
+2018-03-28 13:25:16 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][error][ParseError] ParseError: syntax error, unexpected '?>' in D:\phpStudy\WWW\mytestweb\backend\views\post\_form.php:21
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, NULL)
+#2 D:\phpStudy\WWW\mytestweb\backend\views\post\update.php(18): yii\base\View->render('_form', Array)
+#3 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(336): require('D:\\phpStudy\\WWW...')
+#4 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('update', Array, Object(backend\controllers\PostController))
+#7 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(104): yii\base\Controller->render('update', Array)
+#8 [internal function]: backend\controllers\PostController->actionUpdate('32')
+#9 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#10 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('update', Array)
+#12 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/update', Array)
+#13 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#15 {main}
+2018-03-28 13:25:16 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][info][application] $_GET = [
+    'r' => 'post/update'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-frontend' => 'bne0pknva9fd0eopp6i8nkq981'
+    '_csrf-frontend' => '06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH\";}'
+    'advanced-backend' => '2fdc6vs0g51mi4v9dl9oaqhc75'
+    '_csrf-backend' => '553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"4cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-frontend=bne0pknva9fd0eopp6i8nkq981; _csrf-frontend=06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH%22%3B%7D; advanced-backend=2fdc6vs0g51mi4v9dl9oaqhc75; _csrf-backend=553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%224cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '52967'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fupdate&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fupdate&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522243516.7302
+    'REQUEST_TIME' => 1522243516
+]
+2018-03-28 13:30:41 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][error][Error] Error: Class 'Poststatus' not found in D:\phpStudy\WWW\mytestweb\backend\views\post\_form.php:22
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(336): require()
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, NULL)
+#3 D:\phpStudy\WWW\mytestweb\backend\views\post\update.php(18): yii\base\View->render('_form', Array)
+#4 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(336): require('D:\\phpStudy\\WWW...')
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#7 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('update', Array, Object(backend\controllers\PostController))
+#8 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(104): yii\base\Controller->render('update', Array)
+#9 [internal function]: backend\controllers\PostController->actionUpdate('32')
+#10 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#11 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#12 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('update', Array)
+#13 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/update', Array)
+#14 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#15 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#16 {main}
+2018-03-28 13:30:41 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][info][application] $_GET = [
+    'r' => 'post/update'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-frontend' => 'bne0pknva9fd0eopp6i8nkq981'
+    '_csrf-frontend' => '06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH\";}'
+    'advanced-backend' => '2fdc6vs0g51mi4v9dl9oaqhc75'
+    '_csrf-backend' => '553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"4cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-frontend=bne0pknva9fd0eopp6i8nkq981; _csrf-frontend=06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH%22%3B%7D; advanced-backend=2fdc6vs0g51mi4v9dl9oaqhc75; _csrf-backend=553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%224cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '53201'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fupdate&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fupdate&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522243841.3498
+    'REQUEST_TIME' => 1522243841
+]
+2018-03-28 13:38:54 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][error][Error] Error: Class 'ArrayHelper' not found in D:\phpStudy\WWW\mytestweb\backend\views\post\_form.php:23
+Stack trace:
+#0 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(336): require()
+#1 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#2 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, NULL)
+#3 D:\phpStudy\WWW\mytestweb\backend\views\post\update.php(18): yii\base\View->render('_form', Array)
+#4 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(336): require('D:\\phpStudy\\WWW...')
+#5 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(254): yii\base\View->renderPhpFile('D:\\phpStudy\\WWW...', Array)
+#6 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\View.php(156): yii\base\View->renderFile('D:\\phpStudy\\WWW...', Array, Object(backend\controllers\PostController))
+#7 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(384): yii\base\View->render('update', Array, Object(backend\controllers\PostController))
+#8 D:\phpStudy\WWW\mytestweb\backend\controllers\PostController.php(104): yii\base\Controller->render('update', Array)
+#9 [internal function]: backend\controllers\PostController->actionUpdate('32')
+#10 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#11 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#12 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('update', Array)
+#13 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('post/update', Array)
+#14 D:\phpStudy\WWW\mytestweb\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#15 D:\phpStudy\WWW\mytestweb\backend\web\index.php(17): yii\base\Application->run()
+#16 {main}
+2018-03-28 13:38:54 [127.0.0.1][2][2fdc6vs0g51mi4v9dl9oaqhc75][info][application] $_GET = [
+    'r' => 'post/update'
+    'id' => '32'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_identity-backend' => '154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[2,\"ISCozP06GDMHomSgITAQR2zfU4OpnvRl\",2592000]\";}'
+    'advanced-frontend' => 'bne0pknva9fd0eopp6i8nkq981'
+    '_csrf-frontend' => '06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH\";}'
+    'advanced-backend' => '2fdc6vs0g51mi4v9dl9oaqhc75'
+    '_csrf-backend' => '553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"4cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 2
+]
+
+$_SERVER = [
+    'ACTEL_FOR_ALTIUM_OVERRIDE' => ' '
+    'ADSK_3DSMAX_x64_2014' => 'C:\\Program Files\\Autodesk\\3ds Max 2014\\'
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'ALTERA_FOR_ALTIUM_OVERRIDE' => ' '
+    'AltiumPath' => 'D:\\Program Files (x86)\\Altium Designer 6\\System;C:\\Program Files (x86)\\Altium Designer 6\\System'
+    'APPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'WIN-NRSLQON20B9'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DEVMGR_SHOW_DETAILS' => '1'
+    'DEVMGR_SHOW_NONPRESENT_DEVICES' => '1'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'LOCALAPPDATA' => 'C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' => 'D:\\phpStudy\\php70n;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Windows\\TEMP'
+    'TigerKin' => 'C:\\Program Files (x86)\\Common Files\\microsoft shared\\TigerKin'
+    'TMP' => 'C:\\Windows\\TEMP'
+    'USERDOMAIN' => 'WORKGROUP'
+    'USERNAME' => 'WIN-NRSLQON20B9$'
+    'USERPROFILE' => 'C:\\Windows\\system32\\config\\systemprofile'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox\\'
+    'VS110COMNTOOLS' => 'D:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' => 'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    'XILINX_FOR_ALTIUM_OVERRIDE' => ' '
+    'HTTP_COOKIE' => '_identity-backend=154bf8b28efa75607381549cc543c79a46c0afd92305363c962b382bf3a0a296a%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B2%2C%22ISCozP06GDMHomSgITAQR2zfU4OpnvRl%22%2C2592000%5D%22%3B%7D; advanced-frontend=bne0pknva9fd0eopp6i8nkq981; _csrf-frontend=06bfa219b572f1cfb72dcb9364e1042e5a8108439640aff18341cb7e1fdb0e8aa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22I2KlGT9W5UbUi-9zQPt8ljzFJKydoZoH%22%3B%7D; advanced-backend=2fdc6vs0g51mi4v9dl9oaqhc75; _csrf-backend=553b8a1fb63a55490fc6b2faf74da01876c9475868b3eb7b8c8fbedae156b516a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%224cVazTj0G7JYUQuoyTDMjMrL07Vk3FIT%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/backend/web/index.php?r=post%2Findex'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '53463'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.9.9'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpStudy/WWW'
+    'DOCUMENT_URI' => '/mytestweb/backend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/backend/web/index.php?r=post%2Fupdate&id=32'
+    'SCRIPT_NAME' => '/mytestweb/backend/web/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=post%2Fupdate&id=32'
+    'PATH_TRANSLATED' => 'D:/phpStudy/WWW'
+    'PATH_INFO' => ''
+    'SCRIPT_FILENAME' => 'D:/phpStudy/WWW/mytestweb/backend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/mytestweb/backend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1522244334.87
+    'REQUEST_TIME' => 1522244334
+]

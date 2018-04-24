@@ -1,0 +1,129 @@
+2018-03-13 06:29:17 [::1][-][gctddj2drvbro8qvit91da7864][error][yii\db\Exception] PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Connection.php:686
+Stack trace:
+#0 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Connection.php(686): PDO->__construct('mysql:host=10.3...', 'root', '67535782', NULL)
+#1 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Connection.php(612): yii\db\Connection->createPdoInstance()
+#2 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Connection.php(995): yii\db\Connection->open()
+#3 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Connection.php(982): yii\db\Connection->getMasterPdo()
+#4 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Schema.php(463): yii\db\Connection->getSlavePdo()
+#5 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Connection.php(880): yii\db\Schema->quoteValue('lxjtest')
+#6 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Command.php(209): yii\db\Connection->quoteValue('lxjtest')
+#7 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Command.php(1096): yii\db\Command->getRawSql()
+#8 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Command.php(1117): yii\db\Command->logQuery('yii\\db\\Command:...')
+#9 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Command.php(422): yii\db\Command->queryInternal('fetchColumn', 0)
+#10 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Query.php(425): yii\db\Command->queryScalar()
+#11 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/validators/UniqueValidator.php(187): yii\db\Query->exists()
+#12 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/validators/UniqueValidator.php(145): yii\validators\UniqueValidator->modelExists('\\common\\models\\...', Array, Object(frontend\models\SignupForm))
+#13 [internal function]: yii\validators\UniqueValidator->yii\validators\{closure}(Object(yii\db\Connection))
+#14 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Connection.php(1058): call_user_func(Object(Closure), Object(yii\db\Connection))
+#15 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/validators/UniqueValidator.php(146): yii\db\Connection->useMaster(Object(Closure))
+#16 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/validators/Validator.php(267): yii\validators\UniqueValidator->validateAttribute(Object(frontend\models\SignupForm), 'username')
+#17 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/base/Model.php(367): yii\validators\Validator->validateAttributes(Object(frontend\models\SignupForm), Array)
+#18 /home/lxjtest/myweb/mytestweb/frontend/models/SignupForm.php(46): yii\base\Model->validate()
+#19 /home/lxjtest/myweb/mytestweb/frontend/controllers/SiteController.php(155): frontend\models\SignupForm->signup()
+#20 [internal function]: frontend\controllers\SiteController->actionSignup()
+#21 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#22 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#23 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('signup', Array)
+#24 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('site/signup', Array)
+#25 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#26 /home/lxjtest/myweb/mytestweb/frontend/web/index.php(17): yii\base\Application->run()
+#27 {main}
+
+Next yii\db\Exception: SQLSTATE[HY000] [2002] Connection refused in /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Connection.php:623
+Stack trace:
+#0 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Connection.php(995): yii\db\Connection->open()
+#1 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Connection.php(982): yii\db\Connection->getMasterPdo()
+#2 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Schema.php(463): yii\db\Connection->getSlavePdo()
+#3 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Connection.php(880): yii\db\Schema->quoteValue('lxjtest')
+#4 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Command.php(209): yii\db\Connection->quoteValue('lxjtest')
+#5 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Command.php(1096): yii\db\Command->getRawSql()
+#6 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Command.php(1117): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Command.php(422): yii\db\Command->queryInternal('fetchColumn', 0)
+#8 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Query.php(425): yii\db\Command->queryScalar()
+#9 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/validators/UniqueValidator.php(187): yii\db\Query->exists()
+#10 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/validators/UniqueValidator.php(145): yii\validators\UniqueValidator->modelExists('\\common\\models\\...', Array, Object(frontend\models\SignupForm))
+#11 [internal function]: yii\validators\UniqueValidator->yii\validators\{closure}(Object(yii\db\Connection))
+#12 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/db/Connection.php(1058): call_user_func(Object(Closure), Object(yii\db\Connection))
+#13 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/validators/UniqueValidator.php(146): yii\db\Connection->useMaster(Object(Closure))
+#14 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/validators/Validator.php(267): yii\validators\UniqueValidator->validateAttribute(Object(frontend\models\SignupForm), 'username')
+#15 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/base/Model.php(367): yii\validators\Validator->validateAttributes(Object(frontend\models\SignupForm), Array)
+#16 /home/lxjtest/myweb/mytestweb/frontend/models/SignupForm.php(46): yii\base\Model->validate()
+#17 /home/lxjtest/myweb/mytestweb/frontend/controllers/SiteController.php(155): frontend\models\SignupForm->signup()
+#18 [internal function]: frontend\controllers\SiteController->actionSignup()
+#19 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#20 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#21 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('signup', Array)
+#22 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('site/signup', Array)
+#23 /home/lxjtest/myweb/mytestweb/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#24 /home/lxjtest/myweb/mytestweb/frontend/web/index.php(17): yii\base\Application->run()
+#25 {main}
+Additional Information:
+
+2018-03-13 06:29:15 [::1][-][gctddj2drvbro8qvit91da7864][info][application] $_GET = [
+    'r' => 'site/signup'
+]
+
+$_POST = [
+    '_csrf-frontend' => 'UgVIsWAz8yogoRnrh8G2Pbr53HXnao4bBYaSx8VFXmo2ZxvyCUChY3ORW5vtiYJq2KjoJ4op7S5k6uWC_CsWRw=='
+    'SignupForm' => [
+        'username' => 'lxjtest'
+        'email' => 'lxjtest@163.com'
+        'password' => '67535782'
+    ]
+    'signup-button' => ''
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-backend' => 'ha7gl2rn3hcp1flb56ve1g70n3'
+    '_csrf-backend' => '60b351be8ce3c51dc05620780c5c1759d1c82bb54ef1c70f7244840c3bb391fca:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"zmta9hI-SVsK1WJx8EUQ8bHzmoDsVvjX\";}'
+    'advanced-frontend' => 'gctddj2drvbro8qvit91da7864'
+    '_csrf-frontend' => '5a4f7e23ce9ddf064dad579b3630332b2a6ecf7b1247ced6483ddc6ea8c62860a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"dbSCisRIS0BpjH4WbQ4RmCc5alwE9nH-\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'USER' => 'www-data'
+    'HOME' => '/var/www'
+    'HTTP_COOKIE' => 'advanced-backend=ha7gl2rn3hcp1flb56ve1g70n3; _csrf-backend=60b351be8ce3c51dc05620780c5c1759d1c82bb54ef1c70f7244840c3bb391fca%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22zmta9hI-SVsK1WJx8EUQ8bHzmoDsVvjX%22%3B%7D; advanced-frontend=gctddj2drvbro8qvit91da7864; _csrf-frontend=5a4f7e23ce9ddf064dad579b3630332b2a6ecf7b1247ced6483ddc6ea8c62860a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22dbSCisRIS0BpjH4WbQ4RmCc5alwE9nH-%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost/mytestweb/frontend/web/index.php?r=site%2Fsignup'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ORIGIN' => 'http://localhost'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONTENT_LENGTH' => '229'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'localhost'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => '_'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '::1'
+    'REMOTE_PORT' => '42112'
+    'REMOTE_ADDR' => '::1'
+    'SERVER_SOFTWARE' => 'nginx/1.10.3'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'REQUEST_SCHEME' => 'http'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => '/home/lxjtest/myweb'
+    'DOCUMENT_URI' => '/mytestweb/frontend/web/index.php'
+    'REQUEST_URI' => '/mytestweb/frontend/web/index.php?r=site%2Fsignup'
+    'SCRIPT_NAME' => '/mytestweb/frontend/web/index.php'
+    'CONTENT_LENGTH' => '229'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => 'r=site%2Fsignup'
+    'SCRIPT_FILENAME' => '/home/lxjtest/myweb/mytestweb/frontend/web/index.php'
+    'PATH_INFO' => ''
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => ''
+    'REQUEST_TIME_FLOAT' => 1520922555.6401
+    'REQUEST_TIME' => 1520922555
+]

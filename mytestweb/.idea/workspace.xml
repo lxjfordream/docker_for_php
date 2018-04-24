@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="147610f4-5a44-49b0-ab56-7a0025ce0465" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../advanced/.bowerrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/Vagrantfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/assets/AppAsset.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/codeception.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/config/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/config/bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/config/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/config/params.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/config/test.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/controllers/SiteController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/models/.gitkeep" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/runtime/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/tests/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/tests/_data/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/tests/_data/login_data.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/tests/_output/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/tests/_support/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/tests/_support/FunctionalTester.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/tests/_support/UnitTester.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/tests/functional.suite.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/tests/functional/LoginCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/tests/functional/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/tests/unit.suite.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/tests/unit/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/views/layouts/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/views/site/error.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/views/site/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/views/site/login.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/web/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/web/assets/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/web/css/site.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/backend/web/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/codeception.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/codeception.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/config/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/config/bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/config/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/config/params.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/config/test.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/fixtures/UserFixture.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/mail/layouts/html.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/mail/layouts/text.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/mail/passwordResetToken-html.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/mail/passwordResetToken-text.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/models/LoginForm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/models/User.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/tests/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/tests/_data/user.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/tests/_output/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/tests/_support/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/tests/_support/UnitTester.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/tests/unit.suite.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/tests/unit/models/LoginFormTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/common/widgets/Alert.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/composer.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/console/config/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/console/config/bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/console/config/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/console/config/params.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/console/controllers/.gitkeep" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/console/migrations/m130524_201442_init.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/console/models/.gitkeep" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/console/runtime/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/backend/config/main-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/backend/config/params-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/backend/config/test-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/backend/web/index-test.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/backend/web/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/backend/web/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/common/config/main-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/common/config/params-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/common/config/test-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/console/config/main-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/console/config/params-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/frontend/config/main-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/frontend/config/params-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/frontend/config/test-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/frontend/web/index-test.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/frontend/web/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/frontend/web/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/yii" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/yii_test" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/dev/yii_test.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/prod/backend/config/main-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/prod/backend/config/params-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/prod/backend/web/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/prod/backend/web/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/prod/common/config/main-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/prod/common/config/params-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/prod/console/config/main-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/prod/console/config/params-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/prod/frontend/config/main-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/prod/frontend/config/params-local.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/prod/frontend/web/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/prod/frontend/web/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/environments/prod/yii" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/assets/AppAsset.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/codeception.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/config/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/config/bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/config/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/config/params.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/config/test.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/controllers/SiteController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/models/ContactForm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/models/PasswordResetRequestForm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/models/ResetPasswordForm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/models/SignupForm.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/runtime/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/_data/login_data.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/_data/user.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/_output/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/_support/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/_support/FunctionalTester.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/_support/UnitTester.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/acceptance.suite.yml.example" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/acceptance/HomeCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/acceptance/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/functional.suite.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/functional/AboutCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/functional/ContactCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/functional/HomeCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/functional/LoginCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/functional/SignupCest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/functional/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/unit.suite.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/unit/_bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/unit/models/ContactFormTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/unit/models/PasswordResetRequestFormTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/unit/models/ResetPasswordFormTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/tests/unit/models/SignupFormTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/views/layouts/main.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/views/site/about.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/views/site/contact.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/views/site/error.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/views/site/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/views/site/login.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/views/site/requestPasswordResetToken.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/views/site/resetPassword.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/views/site/signup.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/web/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/web/assets/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/web/css/site.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/frontend/web/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/init" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/init.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/requirements.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/vagrant/config/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/vagrant/config/vagrant-local.example.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/vagrant/nginx/app.conf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/vagrant/nginx/log/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/vagrant/provision/always-as-root.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/vagrant/provision/common.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/vagrant/provision/once-as-root.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/vagrant/provision/once-as-vagrant.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../advanced/yii.bat" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SiteController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/controllers/SiteController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codeception.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/codeception.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main-local.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/common/config/main-local.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SiteController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/controllers/SiteController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1404">
+              <caret line="88" column="33" lean-forward="false" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Yii.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/Yii.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/web/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main-local.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/config/main-local.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/config/main-local.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/codeception/base" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/typeahead.js" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/behat/gherkin" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="72" />
+    <option name="width" value="1275" />
+    <option name="height" value="636" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mytestweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mytestweb" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mytestweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mytestweb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mytestweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mytestweb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mytestweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mytestweb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mytestweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mytestweb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mytestweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mytestweb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="147610f4-5a44-49b0-ab56-7a0025ce0465" name="Default" comment="" />
+      <created>1520579523653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520579523653</updated>
+      <workItem from="1520579533350" duration="241000" />
+      <workItem from="1520580910417" duration="1627000" />
+      <workItem from="1520920589720" duration="2435000" />
+      <workItem from="1521252471077" duration="1447000" />
+      <workItem from="1521699117765" duration="154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5904000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="72" width="1297" height="712" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2030888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24459234" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backend/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config/main-local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/codeception.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="88" column="33" lean-forward="false" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/Yii.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/codeception.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config/main-local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="88" column="33" lean-forward="false" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/site/requestPasswordResetToken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/codeception.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/site/requestPasswordResetToken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="88" column="33" lean-forward="false" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/Yii.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/config/main-local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config/main-local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,60 @@
+nginx:
+    build: ./nginx/
+    ports:
+        - 80:80
+    links:
+        - php
+    volumes_from:
+        - app
+    container_name: mynginx
+    restart: always
+
+php:
+    build: ./php/
+    expose:
+        - 9000
+    links:
+        - mysql
+    volumes_from:
+        - app
+    container_name: myphp
+    restart: always
+
+app:
+    image: php:7.0-fpm
+    volumes:
+        - ./mytestweb:/var/www/html
+    command: "true"
+    container_name: myapp
+
+mysql:
+    image: mysql:latest
+    ports:
+        - 3306:3306
+    volumes_from:
+        - data
+    environment:
+        MYSQL_ROOT_PASSWORD: 67535782
+        MYSQL_DATABASE: lxjtestdb
+        MYSQL_USER: lxjtest
+        MYSQL_PASSWORD: 67535782
+    container_name: mysql
+    restart: always
+
+data:
+    image: mysql:latest
+    volumes:
+        - ./mysql_data:/var/lib/mysql
+    command: "true"
+    container_name: mydata
+
+phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    ports:
+        - 8080:80
+    links:
+        - mysql
+    environment:
+        PMA_HOST: mysql
+    container_name: myphpmyadmin
+    restart: always
