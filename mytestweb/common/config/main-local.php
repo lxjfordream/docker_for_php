@@ -3,11 +3,11 @@ return [
     'components' => [
         'db' => [
             'class' => 'yii\db\Connection',
-//            'dsn' => 'pgsql:host=10.33.81.23;dbname=lxjtestdb',
-//            'username' => 'lxjtest',
-            'dsn' => 'mysql:host=10.33.81.156;dbname=lxjtestdb',
+//            'dsn' => 'pgsql:host=localhost;dbname=mydb',
+//            'username' => 'myname',
+            'dsn' => 'mysql:host=localhost;dbname=mydb',
             'username' => 'root',
-            'password' => '67535782',
+            'password' => 'root',
             'charset' => 'utf8',
         ],
         'mailer' => [
